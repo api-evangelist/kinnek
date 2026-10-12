@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/kinnek/integrations
+- https://n8n.io/integrations/kinnek/
+- https://composio.dev/toolkits/kinnek
+- https://monid.ai/tools/kinnek
+checked:
+- https://composio.dev/toolkits/kinnek
+- https://monid.ai/tools/kinnek
+- https://n8n.io/integrations/kinnek/
+- https://zapier.com/apps/kinnek/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
